@@ -1,0 +1,18 @@
+.card {
+       border: none;
+       overflow: hidden;
+        }
+
+#card{
+padding: 150px;
+}
+
+#card img{
+transition: transform 1.5s ease;
+
+}
+
+#card img:hover{
+transform: scale(1.05);
+}
+

@@ -1,0 +1,41 @@
+.card{
+border: none;
+height: 200%;
+padding: 100px;
+}
+
+.card-body{
+text-align: center;
+margin-top: 50px;
+}
+
+.card-text{
+text-align: left;
+}
+
+#select{
+width: 100px;
+height: 50px;
+margin-right: 10px;
+border: none;
+background-color: rgb(247, 247, 247);
+text-align: center;
+font-family:"Playfair Display";
+}
+
+#cart{
+width: 100px;
+height: 50px;
+background-color: rgb(255, 255, 255);
+text-align: center;
+border-width:1px;
+font-family:"Playfair Display";
+}
+
+.card-title{
+font-family:"Playfair Display";
+}
+
+.card-body h5{
+font-family:"Playfair Display";
+}
